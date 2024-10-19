@@ -1,6 +1,6 @@
 # Log Analysis REST API
 
-This project implements a simple REST API that processes log data from a CSV file and returns a report summary of the logs in M6.csv.
+This project is a take home assignment for Groundup.AI. The task is to create a simple REST API that has an endpoint (/generateReport) that accepts log datas in the form of a csv file from a machine, does some processing on it and returns a report summary of the logs.
 
 ## Prerequisites
 
